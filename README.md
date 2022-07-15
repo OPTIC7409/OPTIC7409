@@ -1,15 +1,11 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/853707783357595708/927189822941061150/standard_1.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Optic, i have been coding for 1~year</div>  
+### <div align="center">I'm Optic, i have been coding for 1.5 years</div>  
   
 
-- ⛏️ I’m currently working on [Atlantic Prisons](https://discord.gg/vdf6UvJYcD)  
-  
-
-- 🌱 I’m currently learning Java and C#  
+- 🌱 I’m currently learning C++ and C#  
   
 
 <br/>  
