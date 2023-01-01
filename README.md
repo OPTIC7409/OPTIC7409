@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Optic, i have been coding for 1.5 years</div>  
+### <div align="center">I'm Optic, i have been coding for 3 years</div>  
   
 
 - 🌱 I’m currently learning C++ and C#  
