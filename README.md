@@ -1,81 +1,28 @@
-<div align="center">
-</div>  
+# Chris Marshall
 
-### <div align="center">I'm Optic — backend-focused developer building scalable systems & AI-driven tools</div>  
+Backend engineer — Go / TypeScript, automation & LLM pipelines. CS @ GCU. Building [marshal.studio](https://marshal.studio).
 
-- 🚀 Building production-grade systems with Go, PostgreSQL, and distributed services  
-- 🧠 Working on AI-powered applications (notes, flashcards, evaluation systems, automation)  
-- ⚙️ Strong focus on backend architecture, performance, and real-world scalability  
-- 🧩 Experienced across 60+ projects, competitions, and real-world builds  
-- 🎯 Goal: Become a lead developer shaping the future of AI-driven software  
+I like systems that keep working when things go wrong: durable state, retries, idempotent writes, and logs you can actually debug from.
 
-<br/>  
+## Selected work
 
-## My Skill Set  
+| Project | What it is |
+|---|---|
+| [flowforge](https://github.com/OPTIC7409/flowforge) | Distributed workflow engine in Go — DAG execution, Postgres-backed state, Redis Streams delivery, lease-based crash recovery |
+| [sentinel-fraud-engine](https://github.com/OPTIC7409/sentinel-fraud-engine) | Real-time fraud scoring — event-driven Go services over Kafka, sklearn model inference, rule-based alerting |
+| [olcli](https://github.com/OPTIC7409/olcli) | AI assistant CLI for Ollama in Python — agentic tool use in the terminal |
+| [exam-prep-chat](https://github.com/OPTIC7409/exam-prep-chat) | LLM chat over your own lecture slides and notes — retrieval + summarisation for exam prep |
+| [toolmarket-backend](https://github.com/OPTIC7409/toolmarket-backend) | Express + TypeScript API — auth, listings, Stripe Connect buyer/seller flows |
+| [gauge](https://github.com/OPTIC7409/gauge) | Observability platform — metrics collection, dashboards, and alerting |
 
-<table><tr><td valign="top" width="100%">
+## Stack
 
-### Core Technologies  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original-wordmark.svg" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" />  
-</div>
+Go · TypeScript · Python · PostgreSQL · Redis · Kafka · Docker · Node.js
 
-### Languages & Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />  
-</div>
+## Elsewhere
 
-</td></tr></table>  
-
-<br/>  
-
-## What I Work On  
-
-- 🧠 AI systems (evaluation, summarisation, structured outputs)  
-- 🌐 Full-stack apps (Go backend + modern frontend)  
-- 📡 Microservices & monitoring systems  
-- 🗄️ Database design & optimisation (PostgreSQL focus)  
-- ⚡ High-performance APIs & automation tools  
-
-<br/>  
-
-## Connect with me  
-
-<div align="center">
-<a href="https://github.com/OPTIC7409" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
-</a>  
-</div>  
-
-<br/>  
-
-## Github Stats  
+- [marshal.studio](https://marshal.studio)
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=OPTIC7409&show_icons=true&count_private=true&hide_border=true" />
-</div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=qgb7ifalq5j6rqu5kly1x7xhi&cover_image=true&theme=default&bar_color_cover=true" />
-</div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=OPTIC740&style=flat-square" />
-</div>  
-
-<br/>  
-
-----
+</div>
